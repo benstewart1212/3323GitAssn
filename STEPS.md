@@ -14,8 +14,9 @@ following this is the list of steps, of which no cmd was used rather git graph:
 9. create changes
 10. commit 8
 11.commit 9
-8. commit 5
-9. commit 6
-10 merge all I am going to accept both for this one5. After creating the branch and filling out the other stuff at this level commit 1
-6. changes then commit 10
-7. commit 13
+12. commit 5
+13. commit 6
+14. merge all I am going to accept both for this one5. After creating the branch and filling out the other stuff at this level commit 1
+15. changes then commit 10
+16. commit 13
+17. commit 14
