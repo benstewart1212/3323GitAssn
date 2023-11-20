@@ -12,3 +12,4 @@ following this is the list of steps, of which no cmd was used rather git graph:
 7. commit 4 
 8. from bug-fixes (we are at node 4) create a new branch 'bug-fix-experimental'
 9. create changes
+10. commit 8
