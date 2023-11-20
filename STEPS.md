@@ -10,3 +10,4 @@ following this is the list of steps, of which no cmd was used rather git graph:
 5. create a 'bug-fix' branch by right clicking on source control and adding branch 
 6. make changes and commit 
 7. commit 4 
+8. commit 5
