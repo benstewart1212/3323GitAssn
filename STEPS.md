@@ -12,3 +12,4 @@ following this is the list of steps, of which no cmd was used rather git graph:
 7. commit 4 
 8. commit 5
 9. commit 6
+10 merge all I am going to accept both for this one
