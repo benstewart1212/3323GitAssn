@@ -11,3 +11,4 @@ following this is the list of steps, of which no cmd was used rather git graph:
 6. make changes and commit 
 7. commit 4 
 8. commit 5
+9. commit 6
