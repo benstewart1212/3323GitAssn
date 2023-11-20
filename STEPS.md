@@ -8,4 +8,4 @@ following this is the list of steps, of which no cmd was used rather git graph:
 3. create and fill out ReadMe and STEPS files
 4. Commit 0 (go to source click + besides each change then click the check at the top this will be the same for all commits )
 5. After creating the branch and filling out the other stuff at this level commit 1
-6. changes then commit 2
+6. changes then commit 10
