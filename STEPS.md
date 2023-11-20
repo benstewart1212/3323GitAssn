@@ -9,3 +9,4 @@ following this is the list of steps, of which no cmd was used rather git graph:
 4. Commit 0 (go to source click + besides each change then click the check at the top this will be the same for all commits )
 5. After creating the branch and filling out the other stuff at this level commit 1
 6. changes then commit 10
+7. commit 13
